@@ -1,0 +1,64 @@
+1. Design an elevator system which supports function like gotoFloor() and openDoor().
+2. http://www.careercup.com/page?pid=system-design-interview-questions
+3. SOA approach.
+4. Concept of map reduce.	
+5. Design ATM
+6. Design Car Service center
+7. Given Channel, Program and TRP ratings, How do you consume those at server side,
+and what do you do to retrieve specific data like 1Get all programs in given channel where TRP is > 10′
+8. Design Restaurant reservation system.
+9. gave DESIGN question “suppose if there is traffic management system database ,then if it goes into the deadlock, what happens and design such system such that it resolves many problems “.No clear information was given and it’s vague. So i explained it by using distributed system concepts
+10.  It was a design question. You have to design a game. it has different types of monsters and different weapons. hero would shoot monster. each monster would have some initial health. Each weapon would do some predefined damage to monster. when its health gets 0, monster would die/disappear. and there would be multiple levels. based on level, monster and their behavior would change.
+11. Next, I was asked to design an efficient data structure for two lifts in a building of n floors.
+12. Hiring manager: Design a service for a. Durability b. Consistency
+13. Design Reservation system(long discussion) :
+	I designed Database for it and did lot many changes in my initial design. We discussed different issues which made me changing my design at various places.
+	How will u manage situation where two person see same seat number available and proceed for reservation at same time. I told him about transaction and locking, he said from which point of reservation will u lock and allow only one transaction to proceed.
+	I gave all kinds of possible answers but he was unsatisfied, I gave analogy of transaction from ATM and transaction from Net banking at the same time..and he asked me to tell the answer as to how to handle this situation.
+
+	At the end when I was not able to come up with something really working (other than locking the attributes), he said that these problems are very complex and do not have simple solution, he just wanted to see my thinking and asked in if I know about observer pattern.
+
+	2)	Tell about design patterns
+	3)	Tell about observer pattern
+	4)	
+	5)	Implement queue using two stacks with best case of both enqueue and dequeue in O(1)
+14. Given a n (large number) lists of customers who visited n webpages on n (large number) days, design a data structure to get customers who have visited the website on exactly “k” days and should have visited at least “m” distinct pages altogether.
+	Was then asked to improvise the solution as much as possible
+15. Gold box problem (Approach)
+	There are ‘n’ gold boxes placed in a row, each having different number of gold coins.
+	2 players play a game, where the motive is to collect the maximum number of gold coins. Each player can see how many coins are present in each box, but can get a box from either end only, on his turn.
+	Design a strategy such that Player1 wins (Assuming both players play smartly)
+16. Design T9 dictionary
+17. how will improve the revenue of the cafeteria of the office.
+	Lots of discussions went and i think, i really did that well.
+18. Test cases to test an ATM
+19. Check if one array is subset of other ( discussed different methods like hashing, sorting ), asked to write a sorting function also
+20. Design a contact list for a cell phone which can add & search really quick and is scalable.
+21. Given that you want to maintain a backend for a bookstore Application that would store names of Authors and books, such that the application can return all the books written by a specific Author and all the Authors of a specific book which is specified in a query. The query can be such that only a substring of the Authorname or the bookname is specified and all the matches should be returned. I proposed a trie based solution, and was asked to code the solution on a collabedit shared document.
+22. How does linkedin implement 2nd, 3rd and higher degree connections
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
