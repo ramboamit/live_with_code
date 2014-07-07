@@ -1,0 +1,6 @@
+Google interviews heavily depends on your profile
+If it describes you as a coder they will ask coding algorithms,  if it says designer it asks accordingly
+Questions asked to me were :
+1st round me : 1) You are given names of basketball player, which data structure u will use to extract the information of the player using his name. 
+2) Given various petrol pumps, and distance between them. Each petrol pump can give u given amount of petrol. You cannot travel with 0 of -ve petrol in your vehicle. You have to tell the petrol pump starting from which u can reach the same petrol pump, traveling in cyclic way. 1 unit distance journey cost u a unit petrol consumption. 
+3) Given an array of size n-1. Find the missing no if no are ranged from 1 to n and no no. is repeated. 4) Given an array of size n-2. Find the missing nos if no are ranged from 1 to n and no no. is repeated.
